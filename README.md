@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on s/w
 - 📫 How to reach me ...
 - 😄 Pronouns: it / its
-- ⚡ Fun fact: not a funny person
+- ⚡ Fun fact: not a funny being
 
 <!---
 adzel-werk/adzel-werk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
