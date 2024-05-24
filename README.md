@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adzel-werk
 - 👀 I’m interested in evertything
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on s/w
 - 📫 How to reach me ...
 - 😄 Pronouns: it / its
